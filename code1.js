@@ -22,7 +22,67 @@ $('document').ready(function(){
         chiper: "."
     }{
         plaintext: "f"
-        cipher: ""
+        cipher: "..-."
+    }{
+        plaintext: "g"
+        cipher:"--."
+    }{
+        plaintext: "h"
+        cipher: "...."
+    }{
+        plaintext: "i"
+        cipher: ".."
+    }{
+        plaintext: "j"
+        cipher: ".--"
+    }{
+        plaintext: "k"
+        cipher: "-.-"
+    }{
+        plaintext: "l"
+        cipher: ".-.."
+    }{
+        plaintext: "m"
+        cipher: "--"
+    }{
+        plaintext: "n"
+        cipher: "-."
+    }{
+        plaintext: "o"
+        cipher: "---"
+    }{
+        plaintext: "p"
+        cipher: ".--."
+    }{
+        plaintext: "q"
+        cipher: "--.-"
+    }{
+        plaintext: "r"
+        cipher: ".-."
+    }{
+        plaintext: "s"
+        cipher: "..."
+    }{
+        plaintext: "t"
+        cipher: "-"
+    }{
+        plaintext: "u"
+        cipher: "..-"
+    }{
+        plaintext: "v"
+        cipher: "...-"
+    }{
+        plaintext: "w"
+        cipher: ".--"
+    }{
+        plaintext: "x"
+        cipher: "-..-"
+    }{
+        plaintext: "y"
+        cipher: "-.--"
+    }{
+        plaintext: "z"
+        cipher: "--.."
     }
          
         
