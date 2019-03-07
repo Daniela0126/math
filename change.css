@@ -1,0 +1,27 @@
+html{
+    background-image: url("https://nwuuc.org/wp-content/uploads/2018/08/Math.jpg?w=640");
+    background-size: 1000px; 
+}
+
+h1{
+    color: #6CECCC;
+    font-size: 60px;
+    font-family: 'Pacifico', cursive;
+    background-color: black;
+} 
+
+#text{
+    color: green;
+    font-size: 40px;
+    background-color: black;
+    padding: 10px;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.text{
+    color: pink;
+    font-size: 25px;
+    background-color: black;
+    padding: 10px;
+    font-family: 'Acme', sans-serif;
+}
